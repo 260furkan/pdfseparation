@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ayarlar | PDF Toolkit</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="font-[Poppins] bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition">
+
+  <!-- Navbar -->
+  <nav class="bg-white dark:bg-gray-800 shadow-lg flex items-center justify-between px-6 py-4 sticky top-0 z-50">
+    <div class="flex items-center gap-2 text-indigo-600 text-xl font-bold tracking-wide">
+      <i class="fas fa-toolbox"></i>
+      <span>PDF Toolkit</span>
+    </div>
+    <ul class="flex space-x-6 text-gray-700 dark:text-gray-300 font-medium text-sm">
+      <li><a href="../../index.html" class="hover:text-indigo-600 transition flex items-center gap-1"><i class="fas fa-scissors"></i> PDF Aralığı</a></li>
+      <li><a href="../colorpalette/color-palette.html" class="hover:text-indigo-600 transition flex items-center gap-1"><i class="fas fa-palette"></i> Renk Paleti</a></li>
+      <li><a href="../colorharmony/color-harmony.html" class="hover:text-indigo-600 transition flex items-center gap-1"><i class="fas fa-tint"></i> Ton Uyumu</a></li>
+      <li><a href="../settings/settings.html" class="text-indigo-600 flex items-center gap-1"><i class="fas fa-cog"></i> Ayarlar</a></li>
+    </ul>
+    <div id="themeToggle" class="cursor-pointer text-gray-600 dark:text-gray-300 text-xl hover:text-indigo-600 transition">
+      <i class="fas fa-moon"></i>
+    </div>
+  </nav>
+
+  <!-- İçerik -->
+  <div class="max-w-3xl mx-auto mt-10 px-6">
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
+      <h2 class="text-2xl font-bold mb-4 flex items-center gap-2"><i class="fas fa-cog text-indigo-600"></i> Ayarlar</h2>
+      <form id="settingsForm" class="space-y-6">
+
+        <!-- Tema -->
+        <div>
+          <label for="themeSelect" class="block font-medium mb-2 flex items-center gap-2"><i class="fas fa-adjust"></i> Tema</label>
+          <select id="themeSelect" class="w-full px-4 py-2 rounded-lg border dark:border-gray-600 bg-gray-50 dark:bg-gray-700 focus:ring-2 focus:ring-indigo-500">
+            <option value="light">Açık</option>
+            <option value="dark">Koyu</option>
+          </select>
+        </div>
+
+        <!-- Yazı Tipi -->
+        <div>
+          <label for="fontSelect" class="block font-medium mb-2 flex items-center gap-2"><i class="fas fa-font"></i> Yazı Tipi</label>
+          <select id="fontSelect" class="w-full px-4 py-2 rounded-lg border dark:border-gray-600 bg-gray-50 dark:bg-gray-700 focus:ring-2 focus:ring-indigo-500">
+            <option value="Poppins">Poppins</option>
+            <option value="Arial">Arial</option>
+            <option value="Courier New">Courier New</option>
+          </select>
+        </div>
+
+        <!-- Animasyon -->
+        <div class="flex items-center gap-3">
+          <input type="checkbox" id="animToggle" checked class="w-5 h-5 text-indigo-600 border-gray-300 rounded focus:ring-indigo-500">
+          <label for="animToggle" class="font-medium flex items-center gap-2"><i class="fas fa-magic"></i> Animasyon</label>
+        </div>
+
+        <!-- Kaydet Butonu -->
+        <button type="submit" class="w-full py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg shadow-md transition font-semibold">
+          Kaydet
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="mt-10 py-6 bg-gray-200 dark:bg-gray-800 text-center text-gray-700 dark:text-gray-300">
+    <p>© 2023 PDF Toolkit | Modern PDF Araçları</p>
+    <div class="flex justify-center gap-6 mt-2">
+      <a href="#" class="hover:text-indigo-600">Gizlilik Politikası</a>
+      <a href="#" class="hover:text-indigo-600">Kullanım Şartları</a>
+      <a href="#" class="hover:text-indigo-600">İletişim</a>
+    </div>
+  </footer>
+<!-- Kütüphaneler -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="script.js"></script>
+  <script>
+    // Tema değiştirici
+    const themeToggle = document.getElementById("themeToggle");
+    themeToggle.addEventListener("click", () => {
+      document.documentElement.classList.toggle("dark");
+    });
+  </script>
+
+  <script src="settings.js"></script>
+</body>
+</html>
+```

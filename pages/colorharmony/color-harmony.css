@@ -1,0 +1,47 @@
+/* Renk Tonları/Uyum Sayfası Özel CSS */
+.harmony-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.harmony-card {
+    background: var(--secondary-color, #f8f9fa);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(74,107,255,0.07);
+    padding: 1.5rem 1rem;
+    text-align: center;
+    transition: box-shadow 0.3s, background 0.3s;
+}
+.harmony-card:hover {
+    box-shadow: 0 6px 24px rgba(74,107,255,0.13);
+    background: var(--light-color, #fff);
+}
+.harmony-type {
+    font-weight: 600;
+    color: var(--primary-color, #4a6bff);
+    font-size: 1.1rem;
+    margin-bottom: 0.7rem;
+    letter-spacing: 0.01em;
+}
+.harmony-colors {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+.harmony-colors span {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+}
+body.dark-mode .harmony-card {
+    background: #23262f;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+}
+body.dark-mode .harmony-type {
+    color: #7b9fff;
+} 

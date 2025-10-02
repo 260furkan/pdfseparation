@@ -1,0 +1,5255 @@
+[
+    {
+        "id": 1,
+        "name": "Mor Paleti 1",
+        "colors": [
+            "#DA70D6",
+            "#BA55D3",
+            "#800080",
+            "#9370DB",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 2,
+        "name": "Doğa Paleti 2",
+        "colors": [
+            "#556B2F",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 3,
+        "name": "Krem Paleti 3",
+        "colors": [
+            "#FDF5E6",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 4,
+        "name": "Sıcak Paleti 4",
+        "colors": [
+            "#FFB6C1",
+            "#FF7F50",
+            "#FFD700",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 5,
+        "name": "Toprak Paleti 5",
+        "colors": [
+            "#D2B48C",
+            "#F5DEB3",
+            "#DEB887",
+            "#A0522D",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 6,
+        "name": "Sıcak Paleti 6",
+        "colors": [
+            "#FF4500",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 7,
+        "name": "Metal Paleti 7",
+        "colors": [
+            "#A9A9A9",
+            "#B0C4DE"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 8,
+        "name": "Gün batımı Paleti 8",
+        "colors": [
+            "#FF4500",
+            "#FF6347",
+            "#FF8C00"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 9,
+        "name": "Krem Paleti 9",
+        "colors": [
+            "#FAEBD7",
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FFE4C4"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 10,
+        "name": "Narenciye Paleti 10",
+        "colors": [
+            "#FFFACD",
+            "#FF8C00",
+            "#FFD700",
+            "#FFA500",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 11,
+        "name": "Gün batımı Paleti 11",
+        "colors": [
+            "#FFA07A",
+            "#FF4500",
+            "#FF8C00",
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 12,
+        "name": "Doğa Paleti 12",
+        "colors": [
+            "#8FBC8F",
+            "#556B2F",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 13,
+        "name": "Doğa Paleti 13",
+        "colors": [
+            "#6B8E23",
+            "#556B2F",
+            "#8FBC8F",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 14,
+        "name": "Sıcak Paleti 14",
+        "colors": [
+            "#FF7F50",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 15,
+        "name": "Narenciye Paleti 15",
+        "colors": [
+            "#FFFACD",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 16,
+        "name": "Gece Paleti 16",
+        "colors": [
+            "#4B0082",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 17,
+        "name": "Deniz Paleti 17",
+        "colors": [
+            "#40E0D0",
+            "#5F9EA0",
+            "#20B2AA"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 18,
+        "name": "Metal Paleti 18",
+        "colors": [
+            "#A9A9A9",
+            "#778899",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 19,
+        "name": "Deniz Paleti 19",
+        "colors": [
+            "#48D1CC",
+            "#20B2AA",
+            "#00CED1",
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 20,
+        "name": "Narenciye Paleti 20",
+        "colors": [
+            "#FFA500",
+            "#FFFACD",
+            "#FF8C00",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 21,
+        "name": "Toprak Paleti 21",
+        "colors": [
+            "#DEB887",
+            "#A0522D",
+            "#8B4513",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 22,
+        "name": "Mor Paleti 22",
+        "colors": [
+            "#BA55D3",
+            "#800080",
+            "#DA70D6",
+            "#8A2BE2",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 23,
+        "name": "Deniz Paleti 23",
+        "colors": [
+            "#40E0D0",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 24,
+        "name": "Toprak Paleti 24",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 25,
+        "name": "Çiçek Paleti 25",
+        "colors": [
+            "#FFC0CB",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 26,
+        "name": "Doğa Paleti 26",
+        "colors": [
+            "#6B8E23",
+            "#2E8B57",
+            "#228B22",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 27,
+        "name": "Krem Paleti 27",
+        "colors": [
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 28,
+        "name": "Gece Paleti 28",
+        "colors": [
+            "#4B0082",
+            "#2F4F4F",
+            "#000080"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 29,
+        "name": "Çiçek Paleti 29",
+        "colors": [
+            "#FFC0CB",
+            "#FF1493",
+            "#DB7093",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 30,
+        "name": "Çiçek Paleti 30",
+        "colors": [
+            "#FF69B4",
+            "#DB7093",
+            "#FFB6C1",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 31,
+        "name": "Çiçek Paleti 31",
+        "colors": [
+            "#DB7093",
+            "#FF69B4",
+            "#FF1493",
+            "#FFB6C1",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 32,
+        "name": "Narenciye Paleti 32",
+        "colors": [
+            "#FFFACD",
+            "#FFD700",
+            "#FFA500",
+            "#FF8C00",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 33,
+        "name": "Mavi Paleti 33",
+        "colors": [
+            "#00008B",
+            "#4169E1",
+            "#0000FF",
+            "#87CEFA",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 34,
+        "name": "Mavi Paleti 34",
+        "colors": [
+            "#87CEFA",
+            "#0000FF",
+            "#00008B",
+            "#4682B4",
+            "#4169E1"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 35,
+        "name": "Soğuk Paleti 35",
+        "colors": [
+            "#87CEFA",
+            "#00CED1",
+            "#1E90FF",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 36,
+        "name": "Çiçek Paleti 36",
+        "colors": [
+            "#FF69B4",
+            "#DB7093",
+            "#FF1493",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 37,
+        "name": "Mor Paleti 37",
+        "colors": [
+            "#DA70D6",
+            "#BA55D3",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 38,
+        "name": "Metal Paleti 38",
+        "colors": [
+            "#B0C4DE",
+            "#708090",
+            "#778899"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 39,
+        "name": "Gün batımı Paleti 39",
+        "colors": [
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 40,
+        "name": "Narenciye Paleti 40",
+        "colors": [
+            "#FFA500",
+            "#FF8C00",
+            "#FFD700",
+            "#FFFACD",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 41,
+        "name": "Toprak Paleti 41",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3",
+            "#A0522D"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 42,
+        "name": "Deniz Paleti 42",
+        "colors": [
+            "#20B2AA",
+            "#48D1CC",
+            "#00CED1",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 43,
+        "name": "Krem Paleti 43",
+        "colors": [
+            "#FFF5EE",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 44,
+        "name": "Çiçek Paleti 44",
+        "colors": [
+            "#FF1493",
+            "#DB7093",
+            "#FFC0CB",
+            "#FF69B4",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 45,
+        "name": "Toprak Paleti 45",
+        "colors": [
+            "#A0522D",
+            "#D2B48C",
+            "#DEB887",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 46,
+        "name": "Gri Paleti 46",
+        "colors": [
+            "#2E2E2E",
+            "#808080",
+            "#4F4F4F",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 47,
+        "name": "Çiçek Paleti 47",
+        "colors": [
+            "#FF69B4",
+            "#FF1493",
+            "#DB7093",
+            "#FFC0CB",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 48,
+        "name": "Soğuk Paleti 48",
+        "colors": [
+            "#1E90FF",
+            "#20B2AA",
+            "#87CEFA",
+            "#00CED1",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 49,
+        "name": "Toprak Paleti 49",
+        "colors": [
+            "#F5DEB3",
+            "#8B4513",
+            "#DEB887",
+            "#D2B48C"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 50,
+        "name": "Sıcak Paleti 50",
+        "colors": [
+            "#FF7F50",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 51,
+        "name": "Metal Paleti 51",
+        "colors": [
+            "#778899",
+            "#C0C0C0",
+            "#708090",
+            "#B0C4DE",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 52,
+        "name": "Mor Paleti 52",
+        "colors": [
+            "#9370DB",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 53,
+        "name": "Mavi Paleti 53",
+        "colors": [
+            "#4169E1",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 54,
+        "name": "Doğa Paleti 54",
+        "colors": [
+            "#8FBC8F",
+            "#6B8E23",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 55,
+        "name": "Gece Paleti 55",
+        "colors": [
+            "#1C1C1C",
+            "#000080",
+            "#2F4F4F",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 56,
+        "name": "Mavi Paleti 56",
+        "colors": [
+            "#4169E1",
+            "#00008B",
+            "#4682B4",
+            "#87CEFA",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 57,
+        "name": "Gece Paleti 57",
+        "colors": [
+            "#2F4F4F",
+            "#000080",
+            "#4B0082",
+            "#1C1C1C",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 58,
+        "name": "Toprak Paleti 58",
+        "colors": [
+            "#8B4513",
+            "#D2B48C",
+            "#F5DEB3",
+            "#A0522D"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 59,
+        "name": "Mavi Paleti 59",
+        "colors": [
+            "#4169E1",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 60,
+        "name": "Deniz Paleti 60",
+        "colors": [
+            "#48D1CC",
+            "#20B2AA",
+            "#00CED1",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 61,
+        "name": "Çiçek Paleti 61",
+        "colors": [
+            "#FF1493",
+            "#FFB6C1",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 62,
+        "name": "Mor Paleti 62",
+        "colors": [
+            "#800080",
+            "#8A2BE2",
+            "#9370DB",
+            "#DA70D6",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 63,
+        "name": "Toprak Paleti 63",
+        "colors": [
+            "#F5DEB3",
+            "#A0522D",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 64,
+        "name": "Gün batımı Paleti 64",
+        "colors": [
+            "#FFD700",
+            "#FFA07A",
+            "#FF8C00",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 65,
+        "name": "Gece Paleti 65",
+        "colors": [
+            "#191970",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 66,
+        "name": "Gece Paleti 66",
+        "colors": [
+            "#1C1C1C",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 67,
+        "name": "Doğa Paleti 67",
+        "colors": [
+            "#8FBC8F",
+            "#228B22",
+            "#2E8B57",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 68,
+        "name": "Metal Paleti 68",
+        "colors": [
+            "#B0C4DE",
+            "#778899",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 69,
+        "name": "Toprak Paleti 69",
+        "colors": [
+            "#F5DEB3",
+            "#A0522D",
+            "#D2B48C",
+            "#8B4513",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 70,
+        "name": "Toprak Paleti 70",
+        "colors": [
+            "#DEB887",
+            "#D2B48C",
+            "#F5DEB3",
+            "#A0522D",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 71,
+        "name": "Doğa Paleti 71",
+        "colors": [
+            "#228B22",
+            "#ADFF2F",
+            "#2E8B57",
+            "#8FBC8F",
+            "#556B2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 72,
+        "name": "Metal Paleti 72",
+        "colors": [
+            "#C0C0C0",
+            "#B0C4DE",
+            "#708090",
+            "#A9A9A9",
+            "#778899"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 73,
+        "name": "Doğa Paleti 73",
+        "colors": [
+            "#228B22",
+            "#556B2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 74,
+        "name": "Metal Paleti 74",
+        "colors": [
+            "#708090",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 75,
+        "name": "Mavi Paleti 75",
+        "colors": [
+            "#4169E1",
+            "#0000FF",
+            "#00008B",
+            "#87CEFA"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 76,
+        "name": "Doğa Paleti 76",
+        "colors": [
+            "#6B8E23",
+            "#2E8B57",
+            "#556B2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 77,
+        "name": "Doğa Paleti 77",
+        "colors": [
+            "#8FBC8F",
+            "#2E8B57",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 78,
+        "name": "Deniz Paleti 78",
+        "colors": [
+            "#00CED1",
+            "#20B2AA",
+            "#48D1CC",
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 79,
+        "name": "Gece Paleti 79",
+        "colors": [
+            "#000080",
+            "#4B0082",
+            "#2F4F4F",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 80,
+        "name": "Deniz Paleti 80",
+        "colors": [
+            "#20B2AA",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 81,
+        "name": "Sıcak Paleti 81",
+        "colors": [
+            "#FF4500",
+            "#FFB6C1",
+            "#FF6347",
+            "#FF7F50",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 82,
+        "name": "Narenciye Paleti 82",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 83,
+        "name": "Toprak Paleti 83",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 84,
+        "name": "Gece Paleti 84",
+        "colors": [
+            "#2F4F4F",
+            "#000080",
+            "#1C1C1C",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 85,
+        "name": "Krem Paleti 85",
+        "colors": [
+            "#FFE4C4",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 86,
+        "name": "Metal Paleti 86",
+        "colors": [
+            "#708090",
+            "#778899",
+            "#A9A9A9",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 87,
+        "name": "Deniz Paleti 87",
+        "colors": [
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 88,
+        "name": "Sıcak Paleti 88",
+        "colors": [
+            "#FFD700",
+            "#FF6347",
+            "#FFB6C1",
+            "#FF7F50",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 89,
+        "name": "Çiçek Paleti 89",
+        "colors": [
+            "#DB7093",
+            "#FF1493",
+            "#FF69B4",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 90,
+        "name": "Metal Paleti 90",
+        "colors": [
+            "#778899",
+            "#A9A9A9",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 91,
+        "name": "Gün batımı Paleti 91",
+        "colors": [
+            "#FFA07A",
+            "#FFD700",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 92,
+        "name": "Deniz Paleti 92",
+        "colors": [
+            "#20B2AA",
+            "#48D1CC",
+            "#00CED1",
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 93,
+        "name": "Gün batımı Paleti 93",
+        "colors": [
+            "#FF8C00",
+            "#FFD700",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 94,
+        "name": "Soğuk Paleti 94",
+        "colors": [
+            "#5F9EA0",
+            "#1E90FF",
+            "#00CED1",
+            "#87CEFA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 95,
+        "name": "Krem Paleti 95",
+        "colors": [
+            "#FFF8DC",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 96,
+        "name": "Sıcak Paleti 96",
+        "colors": [
+            "#FF6347",
+            "#FFD700",
+            "#FFB6C1",
+            "#FF4500",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 97,
+        "name": "Soğuk Paleti 97",
+        "colors": [
+            "#20B2AA",
+            "#5F9EA0",
+            "#00CED1"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 98,
+        "name": "Metal Paleti 98",
+        "colors": [
+            "#708090",
+            "#B0C4DE",
+            "#A9A9A9",
+            "#778899",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 99,
+        "name": "Mor Paleti 99",
+        "colors": [
+            "#9370DB",
+            "#8A2BE2",
+            "#DA70D6",
+            "#BA55D3",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 100,
+        "name": "Gri Paleti 100",
+        "colors": [
+            "#808080",
+            "#4F4F4F",
+            "#A9A9A9"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 101,
+        "name": "Soğuk Paleti 101",
+        "colors": [
+            "#87CEFA",
+            "#00CED1",
+            "#20B2AA",
+            "#1E90FF"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 102,
+        "name": "Krem Paleti 102",
+        "colors": [
+            "#FFE4C4",
+            "#FFF8DC",
+            "#FDF5E6",
+            "#FFF5EE",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 103,
+        "name": "Narenciye Paleti 103",
+        "colors": [
+            "#FF8C00",
+            "#FFD700",
+            "#FAFAD2",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 104,
+        "name": "Doğa Paleti 104",
+        "colors": [
+            "#2E8B57",
+            "#ADFF2F",
+            "#228B22"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 105,
+        "name": "Sıcak Paleti 105",
+        "colors": [
+            "#FF6347",
+            "#FFB6C1",
+            "#FF7F50",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 106,
+        "name": "Gün batımı Paleti 106",
+        "colors": [
+            "#FF8C00",
+            "#FF6347",
+            "#FFA07A",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 107,
+        "name": "Doğa Paleti 107",
+        "colors": [
+            "#ADFF2F",
+            "#556B2F",
+            "#8FBC8F",
+            "#2E8B57",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 108,
+        "name": "Sıcak Paleti 108",
+        "colors": [
+            "#FFB6C1",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 109,
+        "name": "Mavi Paleti 109",
+        "colors": [
+            "#87CEFA",
+            "#4169E1",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 110,
+        "name": "Gece Paleti 110",
+        "colors": [
+            "#1C1C1C",
+            "#191970",
+            "#4B0082",
+            "#000080",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 111,
+        "name": "Metal Paleti 111",
+        "colors": [
+            "#B0C4DE",
+            "#778899"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 112,
+        "name": "Çiçek Paleti 112",
+        "colors": [
+            "#FF1493",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 113,
+        "name": "Metal Paleti 113",
+        "colors": [
+            "#C0C0C0",
+            "#B0C4DE"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 114,
+        "name": "Deniz Paleti 114",
+        "colors": [
+            "#20B2AA",
+            "#48D1CC",
+            "#5F9EA0",
+            "#40E0D0",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 115,
+        "name": "Toprak Paleti 115",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 116,
+        "name": "Gün batımı Paleti 116",
+        "colors": [
+            "#FF4500",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 117,
+        "name": "Çiçek Paleti 117",
+        "colors": [
+            "#FFC0CB",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 118,
+        "name": "Çiçek Paleti 118",
+        "colors": [
+            "#FFB6C1",
+            "#FF69B4",
+            "#FF1493",
+            "#FFC0CB",
+            "#DB7093"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 119,
+        "name": "Mavi Paleti 119",
+        "colors": [
+            "#4169E1",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 120,
+        "name": "Krem Paleti 120",
+        "colors": [
+            "#FFF8DC",
+            "#FDF5E6",
+            "#FFF5EE",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 121,
+        "name": "Deniz Paleti 121",
+        "colors": [
+            "#00CED1",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 122,
+        "name": "Doğa Paleti 122",
+        "colors": [
+            "#ADFF2F",
+            "#228B22",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 123,
+        "name": "Krem Paleti 123",
+        "colors": [
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 124,
+        "name": "Mor Paleti 124",
+        "colors": [
+            "#DA70D6",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 125,
+        "name": "Çiçek Paleti 125",
+        "colors": [
+            "#FFC0CB",
+            "#FF69B4",
+            "#FFB6C1",
+            "#DB7093",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 126,
+        "name": "Toprak Paleti 126",
+        "colors": [
+            "#D2B48C",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 127,
+        "name": "Gece Paleti 127",
+        "colors": [
+            "#4B0082",
+            "#000080",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 128,
+        "name": "Toprak Paleti 128",
+        "colors": [
+            "#D2B48C",
+            "#A0522D",
+            "#8B4513",
+            "#F5DEB3",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 129,
+        "name": "Gri Paleti 129",
+        "colors": [
+            "#2E2E2E",
+            "#808080",
+            "#A9A9A9",
+            "#4F4F4F",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 130,
+        "name": "Çiçek Paleti 130",
+        "colors": [
+            "#DB7093",
+            "#FF1493",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 131,
+        "name": "Mor Paleti 131",
+        "colors": [
+            "#800080",
+            "#9370DB",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 132,
+        "name": "Mavi Paleti 132",
+        "colors": [
+            "#00008B",
+            "#0000FF",
+            "#4169E1"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 133,
+        "name": "Doğa Paleti 133",
+        "colors": [
+            "#6B8E23",
+            "#2E8B57",
+            "#ADFF2F",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 134,
+        "name": "Krem Paleti 134",
+        "colors": [
+            "#FDF5E6",
+            "#FFE4C4",
+            "#FAEBD7",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 135,
+        "name": "Doğa Paleti 135",
+        "colors": [
+            "#228B22",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 136,
+        "name": "Mavi Paleti 136",
+        "colors": [
+            "#87CEFA",
+            "#00008B",
+            "#4169E1"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 137,
+        "name": "Doğa Paleti 137",
+        "colors": [
+            "#ADFF2F",
+            "#2E8B57",
+            "#228B22"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 138,
+        "name": "Gün batımı Paleti 138",
+        "colors": [
+            "#FF8C00",
+            "#FFD700",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 139,
+        "name": "Toprak Paleti 139",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 140,
+        "name": "Gün batımı Paleti 140",
+        "colors": [
+            "#FF4500",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 141,
+        "name": "Narenciye Paleti 141",
+        "colors": [
+            "#FFD700",
+            "#FF8C00",
+            "#FAFAD2",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 142,
+        "name": "Metal Paleti 142",
+        "colors": [
+            "#778899",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 143,
+        "name": "Toprak Paleti 143",
+        "colors": [
+            "#F5DEB3",
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 144,
+        "name": "Doğa Paleti 144",
+        "colors": [
+            "#ADFF2F",
+            "#556B2F",
+            "#2E8B57",
+            "#8FBC8F",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 145,
+        "name": "Deniz Paleti 145",
+        "colors": [
+            "#00CED1",
+            "#40E0D0",
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 146,
+        "name": "Deniz Paleti 146",
+        "colors": [
+            "#48D1CC",
+            "#40E0D0",
+            "#20B2AA",
+            "#5F9EA0",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 147,
+        "name": "Mavi Paleti 147",
+        "colors": [
+            "#4682B4",
+            "#87CEFA",
+            "#4169E1",
+            "#0000FF",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 148,
+        "name": "Çiçek Paleti 148",
+        "colors": [
+            "#FFC0CB",
+            "#FFB6C1",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 149,
+        "name": "Mor Paleti 149",
+        "colors": [
+            "#DA70D6",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 150,
+        "name": "Doğa Paleti 150",
+        "colors": [
+            "#8FBC8F",
+            "#2E8B57",
+            "#556B2F",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 151,
+        "name": "Deniz Paleti 151",
+        "colors": [
+            "#00CED1",
+            "#48D1CC",
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 152,
+        "name": "Gri Paleti 152",
+        "colors": [
+            "#D3D3D3",
+            "#4F4F4F",
+            "#808080"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 153,
+        "name": "Gün batımı Paleti 153",
+        "colors": [
+            "#FF8C00",
+            "#FFA07A",
+            "#FFD700",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 154,
+        "name": "Toprak Paleti 154",
+        "colors": [
+            "#D2B48C",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 155,
+        "name": "Çiçek Paleti 155",
+        "colors": [
+            "#FF69B4",
+            "#FFB6C1",
+            "#DB7093"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 156,
+        "name": "Mavi Paleti 156",
+        "colors": [
+            "#00008B",
+            "#4682B4",
+            "#0000FF",
+            "#87CEFA"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 157,
+        "name": "Çiçek Paleti 157",
+        "colors": [
+            "#DB7093",
+            "#FF69B4",
+            "#FFB6C1",
+            "#FF1493",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 158,
+        "name": "Gün batımı Paleti 158",
+        "colors": [
+            "#FF4500",
+            "#FF8C00"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 159,
+        "name": "Mavi Paleti 159",
+        "colors": [
+            "#4682B4",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 160,
+        "name": "Gün batımı Paleti 160",
+        "colors": [
+            "#FF8C00",
+            "#FFA07A",
+            "#FF6347",
+            "#FFD700",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 161,
+        "name": "Narenciye Paleti 161",
+        "colors": [
+            "#FF8C00",
+            "#FFFACD",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 162,
+        "name": "Gün batımı Paleti 162",
+        "colors": [
+            "#FFD700",
+            "#FFA07A",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 163,
+        "name": "Sıcak Paleti 163",
+        "colors": [
+            "#FFB6C1",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 164,
+        "name": "Metal Paleti 164",
+        "colors": [
+            "#778899",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 165,
+        "name": "Çiçek Paleti 165",
+        "colors": [
+            "#DB7093",
+            "#FF69B4",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 166,
+        "name": "Gece Paleti 166",
+        "colors": [
+            "#191970",
+            "#1C1C1C",
+            "#000080",
+            "#4B0082",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 167,
+        "name": "Toprak Paleti 167",
+        "colors": [
+            "#A0522D",
+            "#D2B48C",
+            "#8B4513",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 168,
+        "name": "Metal Paleti 168",
+        "colors": [
+            "#A9A9A9",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 169,
+        "name": "Deniz Paleti 169",
+        "colors": [
+            "#00CED1",
+            "#20B2AA",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 170,
+        "name": "Mavi Paleti 170",
+        "colors": [
+            "#4169E1",
+            "#4682B4",
+            "#0000FF",
+            "#00008B",
+            "#87CEFA"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 171,
+        "name": "Krem Paleti 171",
+        "colors": [
+            "#FFE4C4",
+            "#FFF5EE",
+            "#FFF8DC",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 172,
+        "name": "Sıcak Paleti 172",
+        "colors": [
+            "#FFB6C1",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 173,
+        "name": "Gece Paleti 173",
+        "colors": [
+            "#1C1C1C",
+            "#4B0082",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 174,
+        "name": "Krem Paleti 174",
+        "colors": [
+            "#FFF5EE",
+            "#FFF8DC",
+            "#FFE4C4"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 175,
+        "name": "Deniz Paleti 175",
+        "colors": [
+            "#00CED1",
+            "#20B2AA",
+            "#40E0D0",
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 176,
+        "name": "Toprak Paleti 176",
+        "colors": [
+            "#8B4513",
+            "#DEB887",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 177,
+        "name": "Narenciye Paleti 177",
+        "colors": [
+            "#FFFACD",
+            "#FFA500",
+            "#FAFAD2",
+            "#FFD700"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 178,
+        "name": "Doğa Paleti 178",
+        "colors": [
+            "#228B22",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 179,
+        "name": "Gri Paleti 179",
+        "colors": [
+            "#808080",
+            "#4F4F4F",
+            "#D3D3D3",
+            "#2E2E2E",
+            "#A9A9A9"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 180,
+        "name": "Metal Paleti 180",
+        "colors": [
+            "#B0C4DE",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 181,
+        "name": "Deniz Paleti 181",
+        "colors": [
+            "#20B2AA",
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 182,
+        "name": "Narenciye Paleti 182",
+        "colors": [
+            "#FAFAD2",
+            "#FFA500",
+            "#FF8C00",
+            "#FFD700"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 183,
+        "name": "Doğa Paleti 183",
+        "colors": [
+            "#8FBC8F",
+            "#6B8E23",
+            "#2E8B57",
+            "#228B22",
+            "#556B2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 184,
+        "name": "Krem Paleti 184",
+        "colors": [
+            "#FAEBD7",
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FFE4C4"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 185,
+        "name": "Krem Paleti 185",
+        "colors": [
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 186,
+        "name": "Metal Paleti 186",
+        "colors": [
+            "#C0C0C0",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 187,
+        "name": "Gün batımı Paleti 187",
+        "colors": [
+            "#FF4500",
+            "#FFA07A",
+            "#FF8C00",
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 188,
+        "name": "Deniz Paleti 188",
+        "colors": [
+            "#40E0D0",
+            "#48D1CC",
+            "#5F9EA0",
+            "#20B2AA",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 189,
+        "name": "Metal Paleti 189",
+        "colors": [
+            "#708090",
+            "#B0C4DE",
+            "#C0C0C0",
+            "#778899"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 190,
+        "name": "Narenciye Paleti 190",
+        "colors": [
+            "#FFA500",
+            "#FF8C00",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 191,
+        "name": "Mor Paleti 191",
+        "colors": [
+            "#8A2BE2",
+            "#BA55D3",
+            "#9370DB",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 192,
+        "name": "Krem Paleti 192",
+        "colors": [
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FFE4C4",
+            "#FAEBD7",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 193,
+        "name": "Mor Paleti 193",
+        "colors": [
+            "#800080",
+            "#BA55D3",
+            "#8A2BE2",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 194,
+        "name": "Soğuk Paleti 194",
+        "colors": [
+            "#5F9EA0",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 195,
+        "name": "Çiçek Paleti 195",
+        "colors": [
+            "#FF69B4",
+            "#FFB6C1",
+            "#FFC0CB",
+            "#FF1493",
+            "#DB7093"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 196,
+        "name": "Mor Paleti 196",
+        "colors": [
+            "#800080",
+            "#DA70D6",
+            "#BA55D3",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 197,
+        "name": "Metal Paleti 197",
+        "colors": [
+            "#778899",
+            "#A9A9A9",
+            "#C0C0C0",
+            "#708090",
+            "#B0C4DE"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 198,
+        "name": "Toprak Paleti 198",
+        "colors": [
+            "#D2B48C",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 199,
+        "name": "Metal Paleti 199",
+        "colors": [
+            "#778899",
+            "#C0C0C0",
+            "#B0C4DE",
+            "#A9A9A9",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 200,
+        "name": "Narenciye Paleti 200",
+        "colors": [
+            "#FAFAD2",
+            "#FFD700",
+            "#FFFACD",
+            "#FFA500",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 201,
+        "name": "Deniz Paleti 201",
+        "colors": [
+            "#48D1CC",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 202,
+        "name": "Deniz Paleti 202",
+        "colors": [
+            "#40E0D0",
+            "#5F9EA0",
+            "#00CED1",
+            "#48D1CC"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 203,
+        "name": "Metal Paleti 203",
+        "colors": [
+            "#B0C4DE",
+            "#A9A9A9",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 204,
+        "name": "Doğa Paleti 204",
+        "colors": [
+            "#6B8E23",
+            "#228B22",
+            "#8FBC8F",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 205,
+        "name": "Narenciye Paleti 205",
+        "colors": [
+            "#FF8C00",
+            "#FFFACD",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 206,
+        "name": "Gri Paleti 206",
+        "colors": [
+            "#4F4F4F",
+            "#808080",
+            "#2E2E2E",
+            "#D3D3D3",
+            "#A9A9A9"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 207,
+        "name": "Gün batımı Paleti 207",
+        "colors": [
+            "#FF6347",
+            "#FFD700",
+            "#FFA07A",
+            "#FF8C00",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 208,
+        "name": "Mor Paleti 208",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 209,
+        "name": "Mavi Paleti 209",
+        "colors": [
+            "#4682B4",
+            "#0000FF",
+            "#4169E1",
+            "#87CEFA",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 210,
+        "name": "Doğa Paleti 210",
+        "colors": [
+            "#556B2F",
+            "#ADFF2F",
+            "#8FBC8F",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 211,
+        "name": "Gece Paleti 211",
+        "colors": [
+            "#2F4F4F",
+            "#000080",
+            "#4B0082",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 212,
+        "name": "Gün batımı Paleti 212",
+        "colors": [
+            "#FFA07A",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 213,
+        "name": "Narenciye Paleti 213",
+        "colors": [
+            "#FFD700",
+            "#FFFACD",
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 214,
+        "name": "Gece Paleti 214",
+        "colors": [
+            "#4B0082",
+            "#191970",
+            "#000080",
+            "#1C1C1C",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 215,
+        "name": "Doğa Paleti 215",
+        "colors": [
+            "#6B8E23",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 216,
+        "name": "Gece Paleti 216",
+        "colors": [
+            "#1C1C1C",
+            "#191970",
+            "#4B0082",
+            "#000080",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 217,
+        "name": "Gri Paleti 217",
+        "colors": [
+            "#A9A9A9",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 218,
+        "name": "Gün batımı Paleti 218",
+        "colors": [
+            "#FFD700",
+            "#FF8C00",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 219,
+        "name": "Krem Paleti 219",
+        "colors": [
+            "#FFF8DC",
+            "#FFE4C4",
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 220,
+        "name": "Deniz Paleti 220",
+        "colors": [
+            "#5F9EA0",
+            "#20B2AA",
+            "#48D1CC"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 221,
+        "name": "Soğuk Paleti 221",
+        "colors": [
+            "#00CED1",
+            "#20B2AA",
+            "#87CEFA",
+            "#1E90FF",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 222,
+        "name": "Mavi Paleti 222",
+        "colors": [
+            "#0000FF",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 223,
+        "name": "Sıcak Paleti 223",
+        "colors": [
+            "#FFB6C1",
+            "#FF7F50",
+            "#FFD700",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 224,
+        "name": "Narenciye Paleti 224",
+        "colors": [
+            "#FAFAD2",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 225,
+        "name": "Narenciye Paleti 225",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFD700",
+            "#FFA500",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 226,
+        "name": "Çiçek Paleti 226",
+        "colors": [
+            "#FFC0CB",
+            "#FFB6C1",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 227,
+        "name": "Soğuk Paleti 227",
+        "colors": [
+            "#20B2AA",
+            "#5F9EA0",
+            "#00CED1",
+            "#1E90FF",
+            "#87CEFA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 228,
+        "name": "Toprak Paleti 228",
+        "colors": [
+            "#DEB887",
+            "#D2B48C",
+            "#A0522D",
+            "#F5DEB3",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 229,
+        "name": "Gri Paleti 229",
+        "colors": [
+            "#A9A9A9",
+            "#2E2E2E",
+            "#4F4F4F"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 230,
+        "name": "Çiçek Paleti 230",
+        "colors": [
+            "#FFC0CB",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 231,
+        "name": "Toprak Paleti 231",
+        "colors": [
+            "#F5DEB3",
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 232,
+        "name": "Krem Paleti 232",
+        "colors": [
+            "#FFE4C4",
+            "#FFF8DC",
+            "#FFF5EE",
+            "#FDF5E6"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 233,
+        "name": "Mor Paleti 233",
+        "colors": [
+            "#DA70D6",
+            "#9370DB",
+            "#BA55D3",
+            "#8A2BE2",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 234,
+        "name": "Toprak Paleti 234",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3",
+            "#A0522D",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 235,
+        "name": "Mavi Paleti 235",
+        "colors": [
+            "#87CEFA",
+            "#4169E1",
+            "#00008B",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 236,
+        "name": "Gün batımı Paleti 236",
+        "colors": [
+            "#FF8C00",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 237,
+        "name": "Mor Paleti 237",
+        "colors": [
+            "#BA55D3",
+            "#9370DB",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 238,
+        "name": "Toprak Paleti 238",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3",
+            "#DEB887",
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 239,
+        "name": "Mavi Paleti 239",
+        "colors": [
+            "#0000FF",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 240,
+        "name": "Mor Paleti 240",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 241,
+        "name": "Gri Paleti 241",
+        "colors": [
+            "#A9A9A9",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 242,
+        "name": "Deniz Paleti 242",
+        "colors": [
+            "#40E0D0",
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 243,
+        "name": "Toprak Paleti 243",
+        "colors": [
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 244,
+        "name": "Mor Paleti 244",
+        "colors": [
+            "#8A2BE2",
+            "#BA55D3",
+            "#800080",
+            "#9370DB",
+            "#DA70D6"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 245,
+        "name": "Gün batımı Paleti 245",
+        "colors": [
+            "#FFA07A",
+            "#FF4500",
+            "#FF8C00",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 246,
+        "name": "Gece Paleti 246",
+        "colors": [
+            "#1C1C1C",
+            "#4B0082",
+            "#000080",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 247,
+        "name": "Krem Paleti 247",
+        "colors": [
+            "#FFE4C4",
+            "#FDF5E6",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 248,
+        "name": "Soğuk Paleti 248",
+        "colors": [
+            "#00CED1",
+            "#87CEFA",
+            "#1E90FF"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 249,
+        "name": "Gün batımı Paleti 249",
+        "colors": [
+            "#FF6347",
+            "#FFA07A",
+            "#FF4500",
+            "#FF8C00",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 250,
+        "name": "Toprak Paleti 250",
+        "colors": [
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 251,
+        "name": "Çiçek Paleti 251",
+        "colors": [
+            "#FF69B4",
+            "#FF1493",
+            "#DB7093",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 252,
+        "name": "Narenciye Paleti 252",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 253,
+        "name": "Toprak Paleti 253",
+        "colors": [
+            "#F5DEB3",
+            "#D2B48C",
+            "#A0522D",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 254,
+        "name": "Krem Paleti 254",
+        "colors": [
+            "#FDF5E6",
+            "#FFF8DC",
+            "#FFF5EE",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 255,
+        "name": "Çiçek Paleti 255",
+        "colors": [
+            "#FF1493",
+            "#FF69B4",
+            "#DB7093",
+            "#FFC0CB",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 256,
+        "name": "Gün batımı Paleti 256",
+        "colors": [
+            "#FFA07A",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 257,
+        "name": "Mavi Paleti 257",
+        "colors": [
+            "#00008B",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 258,
+        "name": "Mavi Paleti 258",
+        "colors": [
+            "#0000FF",
+            "#4682B4",
+            "#87CEFA",
+            "#4169E1",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 259,
+        "name": "Gün batımı Paleti 259",
+        "colors": [
+            "#FF6347",
+            "#FFD700",
+            "#FF4500",
+            "#FF8C00",
+            "#FFA07A"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 260,
+        "name": "Gece Paleti 260",
+        "colors": [
+            "#2F4F4F",
+            "#1C1C1C",
+            "#000080",
+            "#191970",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 261,
+        "name": "Mor Paleti 261",
+        "colors": [
+            "#8A2BE2",
+            "#DA70D6"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 262,
+        "name": "Toprak Paleti 262",
+        "colors": [
+            "#8B4513",
+            "#F5DEB3",
+            "#DEB887",
+            "#D2B48C"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 263,
+        "name": "Gün batımı Paleti 263",
+        "colors": [
+            "#FF8C00",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 264,
+        "name": "Doğa Paleti 264",
+        "colors": [
+            "#6B8E23",
+            "#ADFF2F",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 265,
+        "name": "Mavi Paleti 265",
+        "colors": [
+            "#0000FF",
+            "#87CEFA",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 266,
+        "name": "Krem Paleti 266",
+        "colors": [
+            "#FAEBD7",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 267,
+        "name": "Sıcak Paleti 267",
+        "colors": [
+            "#FFD700",
+            "#FF6347",
+            "#FFB6C1",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 268,
+        "name": "Mor Paleti 268",
+        "colors": [
+            "#8A2BE2",
+            "#DA70D6",
+            "#800080",
+            "#9370DB",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 269,
+        "name": "Narenciye Paleti 269",
+        "colors": [
+            "#FFD700",
+            "#FAFAD2",
+            "#FFA500",
+            "#FFFACD",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 270,
+        "name": "Toprak Paleti 270",
+        "colors": [
+            "#D2B48C",
+            "#8B4513",
+            "#F5DEB3",
+            "#A0522D",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 271,
+        "name": "Gri Paleti 271",
+        "colors": [
+            "#808080",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 272,
+        "name": "Soğuk Paleti 272",
+        "colors": [
+            "#87CEFA",
+            "#20B2AA",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 273,
+        "name": "Toprak Paleti 273",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 274,
+        "name": "Gün batımı Paleti 274",
+        "colors": [
+            "#FF4500",
+            "#FFA07A"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 275,
+        "name": "Gün batımı Paleti 275",
+        "colors": [
+            "#FFA07A",
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 276,
+        "name": "Gri Paleti 276",
+        "colors": [
+            "#808080",
+            "#A9A9A9",
+            "#4F4F4F",
+            "#D3D3D3",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 277,
+        "name": "Deniz Paleti 277",
+        "colors": [
+            "#00CED1",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 278,
+        "name": "Gri Paleti 278",
+        "colors": [
+            "#4F4F4F",
+            "#A9A9A9",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 279,
+        "name": "Metal Paleti 279",
+        "colors": [
+            "#778899",
+            "#B0C4DE",
+            "#A9A9A9",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 280,
+        "name": "Doğa Paleti 280",
+        "colors": [
+            "#2E8B57",
+            "#8FBC8F",
+            "#228B22",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 281,
+        "name": "Toprak Paleti 281",
+        "colors": [
+            "#8B4513",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 282,
+        "name": "Doğa Paleti 282",
+        "colors": [
+            "#ADFF2F",
+            "#8FBC8F",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 283,
+        "name": "Krem Paleti 283",
+        "colors": [
+            "#FFE4C4",
+            "#FFF5EE",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 284,
+        "name": "Toprak Paleti 284",
+        "colors": [
+            "#D2B48C",
+            "#DEB887",
+            "#A0522D",
+            "#8B4513",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 285,
+        "name": "Doğa Paleti 285",
+        "colors": [
+            "#2E8B57",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 286,
+        "name": "Mor Paleti 286",
+        "colors": [
+            "#BA55D3",
+            "#8A2BE2",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 287,
+        "name": "Doğa Paleti 287",
+        "colors": [
+            "#6B8E23",
+            "#556B2F",
+            "#2E8B57",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 288,
+        "name": "Deniz Paleti 288",
+        "colors": [
+            "#48D1CC",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 289,
+        "name": "Gün batımı Paleti 289",
+        "colors": [
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 290,
+        "name": "Krem Paleti 290",
+        "colors": [
+            "#FAEBD7",
+            "#FDF5E6",
+            "#FFE4C4",
+            "#FFF8DC",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 291,
+        "name": "Sıcak Paleti 291",
+        "colors": [
+            "#FFD700",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 292,
+        "name": "Mor Paleti 292",
+        "colors": [
+            "#800080",
+            "#DA70D6"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 293,
+        "name": "Deniz Paleti 293",
+        "colors": [
+            "#5F9EA0",
+            "#20B2AA",
+            "#40E0D0",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 294,
+        "name": "Mor Paleti 294",
+        "colors": [
+            "#9370DB",
+            "#DA70D6",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 295,
+        "name": "Mor Paleti 295",
+        "colors": [
+            "#800080",
+            "#DA70D6",
+            "#8A2BE2",
+            "#9370DB",
+            "#BA55D3"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 296,
+        "name": "Sıcak Paleti 296",
+        "colors": [
+            "#FF6347",
+            "#FF7F50",
+            "#FF4500",
+            "#FFB6C1",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 297,
+        "name": "Gece Paleti 297",
+        "colors": [
+            "#000080",
+            "#2F4F4F",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 298,
+        "name": "Gün batımı Paleti 298",
+        "colors": [
+            "#FF8C00",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 299,
+        "name": "Gün batımı Paleti 299",
+        "colors": [
+            "#FFD700",
+            "#FF6347",
+            "#FF4500",
+            "#FF8C00",
+            "#FFA07A"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 300,
+        "name": "Gri Paleti 300",
+        "colors": [
+            "#808080",
+            "#2E2E2E",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 301,
+        "name": "Gri Paleti 301",
+        "colors": [
+            "#A9A9A9",
+            "#4F4F4F",
+            "#D3D3D3",
+            "#808080",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 302,
+        "name": "Gün batımı Paleti 302",
+        "colors": [
+            "#FF8C00",
+            "#FF4500",
+            "#FFA07A",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 303,
+        "name": "Toprak Paleti 303",
+        "colors": [
+            "#A0522D",
+            "#D2B48C",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 304,
+        "name": "Doğa Paleti 304",
+        "colors": [
+            "#556B2F",
+            "#2E8B57",
+            "#ADFF2F",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 305,
+        "name": "Gün batımı Paleti 305",
+        "colors": [
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 306,
+        "name": "Gece Paleti 306",
+        "colors": [
+            "#4B0082",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 307,
+        "name": "Krem Paleti 307",
+        "colors": [
+            "#FFF8DC",
+            "#FFF5EE",
+            "#FAEBD7",
+            "#FFE4C4"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 308,
+        "name": "Gri Paleti 308",
+        "colors": [
+            "#A9A9A9",
+            "#D3D3D3",
+            "#2E2E2E",
+            "#4F4F4F"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 309,
+        "name": "Gece Paleti 309",
+        "colors": [
+            "#2F4F4F",
+            "#000080",
+            "#191970",
+            "#4B0082",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 310,
+        "name": "Mor Paleti 310",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 311,
+        "name": "Gün batımı Paleti 311",
+        "colors": [
+            "#FFD700",
+            "#FF8C00",
+            "#FF6347",
+            "#FFA07A",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 312,
+        "name": "Doğa Paleti 312",
+        "colors": [
+            "#ADFF2F",
+            "#8FBC8F",
+            "#556B2F",
+            "#6B8E23",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 313,
+        "name": "Sıcak Paleti 313",
+        "colors": [
+            "#FF6347",
+            "#FFB6C1",
+            "#FFD700",
+            "#FF7F50",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 314,
+        "name": "Soğuk Paleti 314",
+        "colors": [
+            "#87CEFA",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 315,
+        "name": "Mavi Paleti 315",
+        "colors": [
+            "#87CEFA",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 316,
+        "name": "Sıcak Paleti 316",
+        "colors": [
+            "#FF4500",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 317,
+        "name": "Deniz Paleti 317",
+        "colors": [
+            "#5F9EA0",
+            "#40E0D0",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 318,
+        "name": "Gri Paleti 318",
+        "colors": [
+            "#A9A9A9",
+            "#808080",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 319,
+        "name": "Gri Paleti 319",
+        "colors": [
+            "#D3D3D3",
+            "#808080",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 320,
+        "name": "Krem Paleti 320",
+        "colors": [
+            "#FFE4C4",
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 321,
+        "name": "Mor Paleti 321",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 322,
+        "name": "Deniz Paleti 322",
+        "colors": [
+            "#5F9EA0",
+            "#40E0D0",
+            "#00CED1",
+            "#48D1CC"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 323,
+        "name": "Metal Paleti 323",
+        "colors": [
+            "#708090",
+            "#B0C4DE",
+            "#778899",
+            "#C0C0C0",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 324,
+        "name": "Toprak Paleti 324",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 325,
+        "name": "Soğuk Paleti 325",
+        "colors": [
+            "#00CED1",
+            "#5F9EA0",
+            "#20B2AA",
+            "#1E90FF"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 326,
+        "name": "Mavi Paleti 326",
+        "colors": [
+            "#4169E1",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 327,
+        "name": "Soğuk Paleti 327",
+        "colors": [
+            "#87CEFA",
+            "#1E90FF",
+            "#00CED1",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 328,
+        "name": "Toprak Paleti 328",
+        "colors": [
+            "#D2B48C",
+            "#A0522D",
+            "#8B4513",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 329,
+        "name": "Gri Paleti 329",
+        "colors": [
+            "#4F4F4F",
+            "#D3D3D3",
+            "#808080",
+            "#A9A9A9",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 330,
+        "name": "Mavi Paleti 330",
+        "colors": [
+            "#87CEFA",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 331,
+        "name": "Krem Paleti 331",
+        "colors": [
+            "#FFF8DC",
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 332,
+        "name": "Mor Paleti 332",
+        "colors": [
+            "#8A2BE2",
+            "#BA55D3",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 333,
+        "name": "Gün batımı Paleti 333",
+        "colors": [
+            "#FF8C00",
+            "#FF6347",
+            "#FFA07A",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 334,
+        "name": "Soğuk Paleti 334",
+        "colors": [
+            "#1E90FF",
+            "#5F9EA0",
+            "#00CED1",
+            "#20B2AA",
+            "#87CEFA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 335,
+        "name": "Gri Paleti 335",
+        "colors": [
+            "#A9A9A9",
+            "#4F4F4F",
+            "#2E2E2E",
+            "#D3D3D3",
+            "#808080"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 336,
+        "name": "Mor Paleti 336",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#9370DB"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 337,
+        "name": "Metal Paleti 337",
+        "colors": [
+            "#C0C0C0",
+            "#778899",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 338,
+        "name": "Deniz Paleti 338",
+        "colors": [
+            "#48D1CC",
+            "#5F9EA0",
+            "#20B2AA"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 339,
+        "name": "Gri Paleti 339",
+        "colors": [
+            "#2E2E2E",
+            "#808080",
+            "#A9A9A9",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 340,
+        "name": "Doğa Paleti 340",
+        "colors": [
+            "#ADFF2F",
+            "#8FBC8F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 341,
+        "name": "Gri Paleti 341",
+        "colors": [
+            "#808080",
+            "#D3D3D3",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 342,
+        "name": "Gri Paleti 342",
+        "colors": [
+            "#2E2E2E",
+            "#808080"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 343,
+        "name": "Mavi Paleti 343",
+        "colors": [
+            "#4169E1",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 344,
+        "name": "Çiçek Paleti 344",
+        "colors": [
+            "#FFC0CB",
+            "#FFB6C1",
+            "#FF1493",
+            "#FF69B4",
+            "#DB7093"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 345,
+        "name": "Toprak Paleti 345",
+        "colors": [
+            "#D2B48C",
+            "#DEB887",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 346,
+        "name": "Sıcak Paleti 346",
+        "colors": [
+            "#FFB6C1",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 347,
+        "name": "Deniz Paleti 347",
+        "colors": [
+            "#48D1CC",
+            "#40E0D0",
+            "#00CED1",
+            "#20B2AA",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 348,
+        "name": "Gece Paleti 348",
+        "colors": [
+            "#1C1C1C",
+            "#2F4F4F",
+            "#4B0082",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 349,
+        "name": "Toprak Paleti 349",
+        "colors": [
+            "#D2B48C",
+            "#F5DEB3",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 350,
+        "name": "Soğuk Paleti 350",
+        "colors": [
+            "#87CEFA",
+            "#00CED1",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 351,
+        "name": "Gece Paleti 351",
+        "colors": [
+            "#000080",
+            "#1C1C1C",
+            "#191970",
+            "#2F4F4F"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 352,
+        "name": "Gece Paleti 352",
+        "colors": [
+            "#000080",
+            "#2F4F4F",
+            "#191970",
+            "#1C1C1C",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 353,
+        "name": "Mavi Paleti 353",
+        "colors": [
+            "#4682B4",
+            "#0000FF",
+            "#00008B",
+            "#87CEFA"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 354,
+        "name": "Gece Paleti 354",
+        "colors": [
+            "#000080",
+            "#191970",
+            "#1C1C1C",
+            "#2F4F4F",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 355,
+        "name": "Narenciye Paleti 355",
+        "colors": [
+            "#FFFACD",
+            "#FFD700",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 356,
+        "name": "Doğa Paleti 356",
+        "colors": [
+            "#6B8E23",
+            "#228B22"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 357,
+        "name": "Gün batımı Paleti 357",
+        "colors": [
+            "#FF8C00",
+            "#FFA07A",
+            "#FFD700",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 358,
+        "name": "Doğa Paleti 358",
+        "colors": [
+            "#556B2F",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 359,
+        "name": "Sıcak Paleti 359",
+        "colors": [
+            "#FFB6C1",
+            "#FFD700",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 360,
+        "name": "Sıcak Paleti 360",
+        "colors": [
+            "#FF7F50",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 361,
+        "name": "Soğuk Paleti 361",
+        "colors": [
+            "#5F9EA0",
+            "#1E90FF",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 362,
+        "name": "Narenciye Paleti 362",
+        "colors": [
+            "#FFD700",
+            "#FF8C00",
+            "#FAFAD2",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 363,
+        "name": "Sıcak Paleti 363",
+        "colors": [
+            "#FF6347",
+            "#FF4500",
+            "#FFD700",
+            "#FFB6C1"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 364,
+        "name": "Sıcak Paleti 364",
+        "colors": [
+            "#FF4500",
+            "#FFB6C1",
+            "#FFD700",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 365,
+        "name": "Çiçek Paleti 365",
+        "colors": [
+            "#FF69B4",
+            "#DB7093"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 366,
+        "name": "Narenciye Paleti 366",
+        "colors": [
+            "#FFA500",
+            "#FFFACD",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 367,
+        "name": "Gece Paleti 367",
+        "colors": [
+            "#2F4F4F",
+            "#4B0082",
+            "#000080",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 368,
+        "name": "Gri Paleti 368",
+        "colors": [
+            "#4F4F4F",
+            "#A9A9A9",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 369,
+        "name": "Doğa Paleti 369",
+        "colors": [
+            "#228B22",
+            "#6B8E23",
+            "#8FBC8F",
+            "#556B2F",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 370,
+        "name": "Gece Paleti 370",
+        "colors": [
+            "#2F4F4F",
+            "#000080"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 371,
+        "name": "Gece Paleti 371",
+        "colors": [
+            "#2F4F4F",
+            "#4B0082",
+            "#000080"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 372,
+        "name": "Gri Paleti 372",
+        "colors": [
+            "#808080",
+            "#D3D3D3",
+            "#4F4F4F",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 373,
+        "name": "Sıcak Paleti 373",
+        "colors": [
+            "#FFB6C1",
+            "#FF7F50",
+            "#FF4500",
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 374,
+        "name": "Narenciye Paleti 374",
+        "colors": [
+            "#FF8C00",
+            "#FFA500",
+            "#FAFAD2",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 375,
+        "name": "Sıcak Paleti 375",
+        "colors": [
+            "#FFD700",
+            "#FFB6C1",
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 376,
+        "name": "Sıcak Paleti 376",
+        "colors": [
+            "#FF7F50",
+            "#FF6347",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 377,
+        "name": "Metal Paleti 377",
+        "colors": [
+            "#708090",
+            "#B0C4DE",
+            "#A9A9A9",
+            "#778899",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 378,
+        "name": "Sıcak Paleti 378",
+        "colors": [
+            "#FF4500",
+            "#FFB6C1",
+            "#FFD700",
+            "#FF7F50",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 379,
+        "name": "Gün batımı Paleti 379",
+        "colors": [
+            "#FF4500",
+            "#FFD700",
+            "#FFA07A"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 380,
+        "name": "Deniz Paleti 380",
+        "colors": [
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 381,
+        "name": "Doğa Paleti 381",
+        "colors": [
+            "#6B8E23",
+            "#556B2F",
+            "#2E8B57",
+            "#ADFF2F",
+            "#228B22"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 382,
+        "name": "Soğuk Paleti 382",
+        "colors": [
+            "#1E90FF",
+            "#5F9EA0",
+            "#00CED1",
+            "#20B2AA",
+            "#87CEFA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 383,
+        "name": "Gece Paleti 383",
+        "colors": [
+            "#191970",
+            "#2F4F4F",
+            "#000080",
+            "#1C1C1C",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 384,
+        "name": "Doğa Paleti 384",
+        "colors": [
+            "#2E8B57",
+            "#ADFF2F",
+            "#6B8E23",
+            "#8FBC8F",
+            "#556B2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 385,
+        "name": "Narenciye Paleti 385",
+        "colors": [
+            "#FFFACD",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 386,
+        "name": "Çiçek Paleti 386",
+        "colors": [
+            "#FFB6C1",
+            "#FFC0CB",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 387,
+        "name": "Gri Paleti 387",
+        "colors": [
+            "#4F4F4F",
+            "#2E2E2E",
+            "#D3D3D3"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 388,
+        "name": "Metal Paleti 388",
+        "colors": [
+            "#778899",
+            "#C0C0C0",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 389,
+        "name": "Doğa Paleti 389",
+        "colors": [
+            "#2E8B57",
+            "#556B2F",
+            "#6B8E23",
+            "#228B22"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 390,
+        "name": "Mor Paleti 390",
+        "colors": [
+            "#DA70D6",
+            "#800080",
+            "#9370DB",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 391,
+        "name": "Soğuk Paleti 391",
+        "colors": [
+            "#87CEFA",
+            "#5F9EA0",
+            "#20B2AA",
+            "#1E90FF"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 392,
+        "name": "Metal Paleti 392",
+        "colors": [
+            "#778899",
+            "#A9A9A9",
+            "#B0C4DE",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 393,
+        "name": "Deniz Paleti 393",
+        "colors": [
+            "#48D1CC",
+            "#5F9EA0",
+            "#40E0D0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 394,
+        "name": "Soğuk Paleti 394",
+        "colors": [
+            "#87CEFA",
+            "#20B2AA",
+            "#00CED1",
+            "#1E90FF",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 395,
+        "name": "Gece Paleti 395",
+        "colors": [
+            "#2F4F4F",
+            "#191970",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 396,
+        "name": "Sıcak Paleti 396",
+        "colors": [
+            "#FF7F50",
+            "#FFB6C1",
+            "#FFD700",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 397,
+        "name": "Mor Paleti 397",
+        "colors": [
+            "#8A2BE2",
+            "#9370DB",
+            "#BA55D3",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 398,
+        "name": "Mor Paleti 398",
+        "colors": [
+            "#DA70D6",
+            "#9370DB",
+            "#BA55D3",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 399,
+        "name": "Çiçek Paleti 399",
+        "colors": [
+            "#FF69B4",
+            "#FF1493",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 400,
+        "name": "Krem Paleti 400",
+        "colors": [
+            "#FFF8DC",
+            "#FDF5E6",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 401,
+        "name": "Doğa Paleti 401",
+        "colors": [
+            "#2E8B57",
+            "#556B2F",
+            "#228B22",
+            "#6B8E23",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 402,
+        "name": "Toprak Paleti 402",
+        "colors": [
+            "#DEB887",
+            "#A0522D",
+            "#D2B48C",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 403,
+        "name": "Metal Paleti 403",
+        "colors": [
+            "#A9A9A9",
+            "#708090",
+            "#C0C0C0",
+            "#B0C4DE",
+            "#778899"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 404,
+        "name": "Çiçek Paleti 404",
+        "colors": [
+            "#DB7093",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 405,
+        "name": "Metal Paleti 405",
+        "colors": [
+            "#778899",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 406,
+        "name": "Soğuk Paleti 406",
+        "colors": [
+            "#00CED1",
+            "#87CEFA",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 407,
+        "name": "Doğa Paleti 407",
+        "colors": [
+            "#8FBC8F",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 408,
+        "name": "Gece Paleti 408",
+        "colors": [
+            "#2F4F4F",
+            "#1C1C1C",
+            "#000080",
+            "#4B0082",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 409,
+        "name": "Narenciye Paleti 409",
+        "colors": [
+            "#FF8C00",
+            "#FAFAD2",
+            "#FFD700",
+            "#FFA500",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 410,
+        "name": "Çiçek Paleti 410",
+        "colors": [
+            "#FF69B4",
+            "#FFB6C1",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 411,
+        "name": "Çiçek Paleti 411",
+        "colors": [
+            "#DB7093",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 412,
+        "name": "Krem Paleti 412",
+        "colors": [
+            "#FFE4C4",
+            "#FDF5E6",
+            "#FFF8DC",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 413,
+        "name": "Krem Paleti 413",
+        "colors": [
+            "#FFF5EE",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 414,
+        "name": "Toprak Paleti 414",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 415,
+        "name": "Sıcak Paleti 415",
+        "colors": [
+            "#FFD700",
+            "#FF4500",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 416,
+        "name": "Mavi Paleti 416",
+        "colors": [
+            "#0000FF",
+            "#4682B4",
+            "#00008B",
+            "#87CEFA"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 417,
+        "name": "Çiçek Paleti 417",
+        "colors": [
+            "#DB7093",
+            "#FF69B4",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 418,
+        "name": "Deniz Paleti 418",
+        "colors": [
+            "#00CED1",
+            "#5F9EA0",
+            "#20B2AA",
+            "#48D1CC"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 419,
+        "name": "Sıcak Paleti 419",
+        "colors": [
+            "#FFD700",
+            "#FF4500",
+            "#FFB6C1",
+            "#FF6347",
+            "#FF7F50"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 420,
+        "name": "Gün batımı Paleti 420",
+        "colors": [
+            "#FFA07A",
+            "#FFD700",
+            "#FF8C00"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 421,
+        "name": "Toprak Paleti 421",
+        "colors": [
+            "#D2B48C",
+            "#F5DEB3",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 422,
+        "name": "Deniz Paleti 422",
+        "colors": [
+            "#00CED1",
+            "#20B2AA"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 423,
+        "name": "Gri Paleti 423",
+        "colors": [
+            "#808080",
+            "#4F4F4F",
+            "#2E2E2E",
+            "#D3D3D3",
+            "#A9A9A9"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 424,
+        "name": "Narenciye Paleti 424",
+        "colors": [
+            "#FFA500",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 425,
+        "name": "Soğuk Paleti 425",
+        "colors": [
+            "#20B2AA",
+            "#87CEFA",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 426,
+        "name": "Deniz Paleti 426",
+        "colors": [
+            "#00CED1",
+            "#40E0D0",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 427,
+        "name": "Mavi Paleti 427",
+        "colors": [
+            "#4169E1",
+            "#4682B4"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 428,
+        "name": "Metal Paleti 428",
+        "colors": [
+            "#778899",
+            "#A9A9A9",
+            "#708090"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 429,
+        "name": "Narenciye Paleti 429",
+        "colors": [
+            "#FFA500",
+            "#FF8C00",
+            "#FFD700",
+            "#FFFACD",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 430,
+        "name": "Soğuk Paleti 430",
+        "colors": [
+            "#00CED1",
+            "#87CEFA",
+            "#5F9EA0"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 431,
+        "name": "Mor Paleti 431",
+        "colors": [
+            "#800080",
+            "#DA70D6",
+            "#9370DB",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 432,
+        "name": "Metal Paleti 432",
+        "colors": [
+            "#708090",
+            "#A9A9A9",
+            "#C0C0C0"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 433,
+        "name": "Çiçek Paleti 433",
+        "colors": [
+            "#FF69B4",
+            "#FFC0CB"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 434,
+        "name": "Gri Paleti 434",
+        "colors": [
+            "#2E2E2E",
+            "#D3D3D3",
+            "#A9A9A9",
+            "#808080"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 435,
+        "name": "Soğuk Paleti 435",
+        "colors": [
+            "#1E90FF",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 436,
+        "name": "Toprak Paleti 436",
+        "colors": [
+            "#DEB887",
+            "#F5DEB3",
+            "#D2B48C",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 437,
+        "name": "Gece Paleti 437",
+        "colors": [
+            "#1C1C1C",
+            "#191970"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 438,
+        "name": "Gün batımı Paleti 438",
+        "colors": [
+            "#FF8C00",
+            "#FFA07A",
+            "#FF4500",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 439,
+        "name": "Krem Paleti 439",
+        "colors": [
+            "#FDF5E6",
+            "#FAEBD7",
+            "#FFF8DC",
+            "#FFE4C4",
+            "#FFF5EE"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 440,
+        "name": "Gece Paleti 440",
+        "colors": [
+            "#191970",
+            "#000080",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 441,
+        "name": "Mor Paleti 441",
+        "colors": [
+            "#8A2BE2",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 442,
+        "name": "Toprak Paleti 442",
+        "colors": [
+            "#A0522D",
+            "#F5DEB3",
+            "#DEB887",
+            "#8B4513",
+            "#D2B48C"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 443,
+        "name": "Krem Paleti 443",
+        "colors": [
+            "#FAEBD7",
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FFF8DC",
+            "#FFE4C4"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 444,
+        "name": "Narenciye Paleti 444",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFA500",
+            "#FFFACD",
+            "#FFD700"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 445,
+        "name": "Toprak Paleti 445",
+        "colors": [
+            "#A0522D",
+            "#8B4513",
+            "#D2B48C",
+            "#F5DEB3"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 446,
+        "name": "Sıcak Paleti 446",
+        "colors": [
+            "#FFD700",
+            "#FFB6C1",
+            "#FF7F50",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 447,
+        "name": "Gün batımı Paleti 447",
+        "colors": [
+            "#FFA07A",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 448,
+        "name": "Mavi Paleti 448",
+        "colors": [
+            "#4682B4",
+            "#87CEFA",
+            "#4169E1",
+            "#0000FF",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 449,
+        "name": "Sıcak Paleti 449",
+        "colors": [
+            "#FFB6C1",
+            "#FFD700"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 450,
+        "name": "Gün batımı Paleti 450",
+        "colors": [
+            "#FF8C00",
+            "#FF6347",
+            "#FFA07A",
+            "#FFD700"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 451,
+        "name": "Narenciye Paleti 451",
+        "colors": [
+            "#FFFACD",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 452,
+        "name": "Toprak Paleti 452",
+        "colors": [
+            "#DEB887",
+            "#8B4513",
+            "#F5DEB3",
+            "#D2B48C"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 453,
+        "name": "Mavi Paleti 453",
+        "colors": [
+            "#4682B4",
+            "#4169E1",
+            "#87CEFA",
+            "#0000FF"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 454,
+        "name": "Gri Paleti 454",
+        "colors": [
+            "#A9A9A9",
+            "#808080",
+            "#D3D3D3",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 455,
+        "name": "Gri Paleti 455",
+        "colors": [
+            "#808080",
+            "#4F4F4F",
+            "#2E2E2E",
+            "#D3D3D3",
+            "#A9A9A9"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 456,
+        "name": "Sıcak Paleti 456",
+        "colors": [
+            "#FF4500",
+            "#FF6347"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 457,
+        "name": "Çiçek Paleti 457",
+        "colors": [
+            "#FFC0CB",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 458,
+        "name": "Sıcak Paleti 458",
+        "colors": [
+            "#FF7F50",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 459,
+        "name": "Toprak Paleti 459",
+        "colors": [
+            "#A0522D",
+            "#8B4513",
+            "#D2B48C"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 460,
+        "name": "Doğa Paleti 460",
+        "colors": [
+            "#556B2F",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 461,
+        "name": "Narenciye Paleti 461",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 462,
+        "name": "Narenciye Paleti 462",
+        "colors": [
+            "#FAFAD2",
+            "#FF8C00",
+            "#FFFACD",
+            "#FFD700",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 463,
+        "name": "Toprak Paleti 463",
+        "colors": [
+            "#A0522D",
+            "#D2B48C",
+            "#DEB887",
+            "#8B4513"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 464,
+        "name": "Çiçek Paleti 464",
+        "colors": [
+            "#FFC0CB",
+            "#FF1493",
+            "#FFB6C1",
+            "#DB7093",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 465,
+        "name": "Gün batımı Paleti 465",
+        "colors": [
+            "#FFD700",
+            "#FF6347",
+            "#FF4500"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 466,
+        "name": "Deniz Paleti 466",
+        "colors": [
+            "#5F9EA0",
+            "#48D1CC",
+            "#00CED1",
+            "#20B2AA"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 467,
+        "name": "Gece Paleti 467",
+        "colors": [
+            "#1C1C1C",
+            "#000080",
+            "#2F4F4F",
+            "#4B0082"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 468,
+        "name": "Deniz Paleti 468",
+        "colors": [
+            "#20B2AA",
+            "#00CED1"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 469,
+        "name": "Mavi Paleti 469",
+        "colors": [
+            "#87CEFA",
+            "#0000FF",
+            "#4682B4",
+            "#00008B"
+        ],
+        "category": "mavi"
+    },
+    {
+        "id": 470,
+        "name": "Doğa Paleti 470",
+        "colors": [
+            "#228B22",
+            "#ADFF2F"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 471,
+        "name": "Narenciye Paleti 471",
+        "colors": [
+            "#FFFACD",
+            "#FFA500"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 472,
+        "name": "Mor Paleti 472",
+        "colors": [
+            "#8A2BE2",
+            "#800080"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 473,
+        "name": "Doğa Paleti 473",
+        "colors": [
+            "#2E8B57",
+            "#6B8E23"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 474,
+        "name": "Mor Paleti 474",
+        "colors": [
+            "#800080",
+            "#8A2BE2",
+            "#BA55D3",
+            "#9370DB",
+            "#DA70D6"
+        ],
+        "category": "mor"
+    },
+    {
+        "id": 475,
+        "name": "Gri Paleti 475",
+        "colors": [
+            "#2E2E2E",
+            "#4F4F4F"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 476,
+        "name": "Krem Paleti 476",
+        "colors": [
+            "#FFE4C4",
+            "#FDF5E6"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 477,
+        "name": "Çiçek Paleti 477",
+        "colors": [
+            "#FFB6C1",
+            "#DB7093",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 478,
+        "name": "Metal Paleti 478",
+        "colors": [
+            "#778899",
+            "#A9A9A9"
+        ],
+        "category": "metal"
+    },
+    {
+        "id": 479,
+        "name": "Krem Paleti 479",
+        "colors": [
+            "#FAEBD7",
+            "#FFF8DC"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 480,
+        "name": "Narenciye Paleti 480",
+        "colors": [
+            "#FF8C00",
+            "#FFA500",
+            "#FAFAD2"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 481,
+        "name": "Çiçek Paleti 481",
+        "colors": [
+            "#FF1493",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 482,
+        "name": "Doğa Paleti 482",
+        "colors": [
+            "#556B2F",
+            "#8FBC8F",
+            "#6B8E23",
+            "#2E8B57"
+        ],
+        "category": "doğa"
+    },
+    {
+        "id": 483,
+        "name": "Toprak Paleti 483",
+        "colors": [
+            "#F5DEB3",
+            "#A0522D",
+            "#8B4513",
+            "#DEB887"
+        ],
+        "category": "toprak"
+    },
+    {
+        "id": 484,
+        "name": "Deniz Paleti 484",
+        "colors": [
+            "#48D1CC",
+            "#20B2AA",
+            "#40E0D0",
+            "#00CED1",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 485,
+        "name": "Sıcak Paleti 485",
+        "colors": [
+            "#FF7F50",
+            "#FFD700",
+            "#FF6347",
+            "#FFB6C1",
+            "#FF4500"
+        ],
+        "category": "sıcak"
+    },
+    {
+        "id": 486,
+        "name": "Krem Paleti 486",
+        "colors": [
+            "#FFE4C4",
+            "#FFF8DC",
+            "#FFF5EE",
+            "#FDF5E6",
+            "#FAEBD7"
+        ],
+        "category": "krem"
+    },
+    {
+        "id": 487,
+        "name": "Gri Paleti 487",
+        "colors": [
+            "#A9A9A9",
+            "#808080"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 488,
+        "name": "Çiçek Paleti 488",
+        "colors": [
+            "#FF1493",
+            "#FFB6C1",
+            "#FF69B4"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 489,
+        "name": "Çiçek Paleti 489",
+        "colors": [
+            "#FF69B4",
+            "#FF1493",
+            "#FFB6C1"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 490,
+        "name": "Deniz Paleti 490",
+        "colors": [
+            "#40E0D0",
+            "#00CED1",
+            "#20B2AA",
+            "#48D1CC",
+            "#5F9EA0"
+        ],
+        "category": "deniz"
+    },
+    {
+        "id": 491,
+        "name": "Gece Paleti 491",
+        "colors": [
+            "#2F4F4F",
+            "#191970",
+            "#4B0082",
+            "#1C1C1C"
+        ],
+        "category": "gece"
+    },
+    {
+        "id": 492,
+        "name": "Gri Paleti 492",
+        "colors": [
+            "#4F4F4F",
+            "#2E2E2E"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 493,
+        "name": "Gün batımı Paleti 493",
+        "colors": [
+            "#FF4500",
+            "#FFA07A",
+            "#FF8C00",
+            "#FFD700",
+            "#FF6347"
+        ],
+        "category": "gün batımı"
+    },
+    {
+        "id": 494,
+        "name": "Narenciye Paleti 494",
+        "colors": [
+            "#FF8C00",
+            "#FFFACD"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 495,
+        "name": "Gri Paleti 495",
+        "colors": [
+            "#D3D3D3",
+            "#4F4F4F"
+        ],
+        "category": "gri"
+    },
+    {
+        "id": 496,
+        "name": "Narenciye Paleti 496",
+        "colors": [
+            "#FFFACD",
+            "#FAFAD2",
+            "#FFD700",
+            "#FF8C00"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 497,
+        "name": "Çiçek Paleti 497",
+        "colors": [
+            "#FFB6C1",
+            "#FFC0CB",
+            "#FF1493"
+        ],
+        "category": "çiçek"
+    },
+    {
+        "id": 498,
+        "name": "Soğuk Paleti 498",
+        "colors": [
+            "#00CED1",
+            "#20B2AA"
+        ],
+        "category": "soğuk"
+    },
+    {
+        "id": 499,
+        "name": "Narenciye Paleti 499",
+        "colors": [
+            "#FF8C00",
+            "#FFD700"
+        ],
+        "category": "narenciye"
+    },
+    {
+        "id": 500,
+        "name": "Mor Paleti 500",
+        "colors": [
+            "#9370DB",
+            "#800080",
+            "#BA55D3",
+            "#DA70D6",
+            "#8A2BE2"
+        ],
+        "category": "mor"
+    }
+]

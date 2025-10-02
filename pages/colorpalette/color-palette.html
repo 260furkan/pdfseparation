@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="tr" class="transition-colors duration-300">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PCPX | Renk Seçici</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+    };
+  </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100 font-[Poppins]">
+<!-- Navbar -->
+    <nav class="bg-white dark:bg-gray-800 shadow-lg flex items-center justify-between px-6 py-4 sticky top-0 z-50">
+        <div class="flex items-center gap-2 text-indigo-600 text-xl font-bold tracking-wide">
+            <i class="fas fa-toolbox"></i>
+            <span>PCPX</span>
+        </div>
+       <ul class="flex space-x-6 text-gray-700 dark:text-gray-300 font-medium">
+            <li><a href="../../index.html" class="flex items-center gap-1"><i class="fas fa-cut"></i> PDF Ayır</a></li>
+            <li><a href="../colorpalette/color-palette.html" class="text-blue-600 flex items-center gap-1"><i
+                        class="fas fa-palette"></i> Renk Paleti</a></li>
+            <li><a href="../colorharmony/color-harmony.html" class=" flex items-center gap-1"><i class="fas fa-tint"></i>
+                    Renk Tonları</a></li>
+            <li><a href="../settings/settings.html" class="flex items-center gap-1"><i class="fas fa-cog"></i>
+                    Ayarlar</a></li>
+        </ul>
+        <div id="themeToggle"
+            class="cursor-pointer text-gray-600 dark:text-gray-300 text-xl hover:text-indigo-600 transition">
+            <i class="fas fa-moon"></i>
+        </div>
+    </nav>
+
+
+  <!-- Main -->
+  <main class="max-w-3xl mx-auto mt-12 bg-white dark:bg-gray-800 shadow-xl rounded-2xl p-8">
+    <h2 class="text-2xl font-semibold mb-3 flex items-center gap-2 text-indigo-600">
+      <i class="fas fa-palette"></i> Renk Seçici
+    </h2>
+    <p class="text-gray-500 dark:text-gray-300 mb-6">
+      Renk seçin veya kod girin. HEX, RGB ve HSL değerlerini görün ve kopyalayın.
+    </p>
+
+    <!-- Renk Seçici -->
+    <div class="flex flex-col items-center gap-6">
+      <!-- Color Picker & Preview -->
+      <div class="flex items-center gap-6">
+        <input type="color" id="colorPicker" value="#4f46e5"
+          class="w-28 h-28 rounded-full cursor-pointer shadow-md border-4 border-white dark:border-gray-700" />
+        <div id="colorBox" class="w-28 h-28 rounded-xl shadow-md border dark:border-gray-700"
+          style="background-color: #4f46e5;"></div>
+      </div>
+
+      <!-- Manuel Input -->
+      <div class="flex gap-3 w-full">
+        <input type="text" id="manualInput" placeholder="#4f46e5 veya rgb(79,70,229)"
+          class="flex-1 p-3 border rounded-lg dark:bg-gray-900 dark:border-gray-600"
+          />
+        <button id="applyColor"
+          class="bg-indigo-600 text-white px-4 rounded-lg hover:bg-indigo-700 transition">Uygula</button>
+      </div>
+
+      <!-- Kodlar -->
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 w-full text-center">
+        <div class="p-3 bg-gray-50 dark:bg-gray-700 rounded-lg flex flex-col gap-1">
+          <p class="text-xs text-gray-400">HEX</p>
+          <div class="flex items-center justify-between">
+            <p id="hexCode" class="font-semibold">#4f46e5</p>
+            <button class="copyBtn text-indigo-600 text-sm" data-target="hexCode"><i class="fas fa-copy"></i></button>
+          </div>
+        </div>
+        <div class="p-3 bg-gray-50 dark:bg-gray-700 rounded-lg flex flex-col gap-1">
+          <p class="text-xs text-gray-400">RGB</p>
+          <div class="flex items-center justify-between">
+            <p id="rgbCode" class="font-semibold">79, 70, 229</p>
+            <button class="copyBtn text-indigo-600 text-sm" data-target="rgbCode"><i class="fas fa-copy"></i></button>
+          </div>
+        </div>
+        <div class="p-3 bg-gray-50 dark:bg-gray-700 rounded-lg flex flex-col gap-1">
+          <p class="text-xs text-gray-400">HSL</p>
+          <div class="flex items-center justify-between">
+            <p id="hslCode" class="font-semibold">241, 77%, 59%</p>
+            <button class="copyBtn text-indigo-600 text-sm" data-target="hslCode"><i class="fas fa-copy"></i></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-12 text-center text-sm text-gray-500 dark:text-gray-400 py-6">
+    <p>© 2025 PCPX | PDF & Renk Araçları</p>
+    <div class="flex justify-center mt-2 text-xs">
+      <a href="#" class="hover:underline">İletişim</a>
+    </div>
+  </footer>
+
+  <!-- Script -->
+  <script>
+    const colorPicker = document.getElementById("colorPicker");
+    const colorBox = document.getElementById("colorBox");
+    const hexCode = document.getElementById("hexCode");
+    const rgbCode = document.getElementById("rgbCode");
+    const hslCode = document.getElementById("hslCode");
+    const manualInput = document.getElementById("manualInput");
+    const applyColor = document.getElementById("applyColor");
+
+    // HEX → RGB
+    function hexToRgb(hex) {
+      hex = hex.replace("#", "");
+      if (hex.length === 3) hex = hex.split("").map(x => x + x).join("");
+      let r = parseInt(hex.substr(0, 2), 16);
+      let g = parseInt(hex.substr(2, 2), 16);
+      let b = parseInt(hex.substr(4, 2), 16);
+      return { r, g, b };
+    }
+
+    // RGB → HSL
+    function rgbToHsl(r, g, b) {
+      r /= 255; g /= 255; b /= 255;
+      let max = Math.max(r, g, b), min = Math.min(r, g, b);
+      let h, s, l = (max + min) / 2;
+      if (max === min) {
+        h = s = 0;
+      } else {
+        let d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch (max) {
+          case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+          case g: h = (b - r) / d + 2; break;
+          case b: h = (r - g) / d + 4; break;
+        }
+        h /= 6;
+      }
+      return {
+        h: Math.round(h * 360),
+        s: Math.round(s * 100),
+        l: Math.round(l * 100)
+      };
+    }
+
+    // Renk güncelleme
+    function updateColor(color) {
+      colorBox.style.backgroundColor = color;
+      colorPicker.value = /^#/.test(color) ? color : rgbToHex(color);
+
+      let r, g, b;
+      if (color.startsWith("#")) {
+        ({ r, g, b } = hexToRgb(color));
+        hexCode.textContent = color.toUpperCase();
+      } else if (color.startsWith("rgb")) {
+        let vals = color.match(/\d+/g).map(Number);
+        r = vals[0]; g = vals[1]; b = vals[2];
+        hexCode.textContent = rgbToHex(`rgb(${r},${g},${b})`).toUpperCase();
+      }
+
+      rgbCode.textContent = `${r}, ${g}, ${b}`;
+      let { h, s, l } = rgbToHsl(r, g, b);
+      hslCode.textContent = `${h}, ${s}%, ${l}%`;
+    }
+
+    // RGB string → HEX
+    function rgbToHex(rgb) {
+      let result = rgb.match(/\d+/g).map(Number);
+      return (
+        "#" +
+        result
+          .map(x => x.toString(16).padStart(2, "0"))
+          .join("")
+      );
+    }
+
+    // Input color picker değişince
+    colorPicker.addEventListener("input", () => {
+      updateColor(colorPicker.value);
+    });
+
+    // Manuel input
+    applyColor.addEventListener("click", () => {
+      let val = manualInput.value.trim();
+      if (val.startsWith("#") || val.startsWith("rgb")) {
+        updateColor(val);
+      } else {
+        alert("Geçerli bir HEX (#ff0000) veya RGB (rgb(255,0,0)) değeri girin!");
+      }
+    });
+
+    // Kopyalama
+    document.querySelectorAll(".copyBtn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        let targetId = btn.getAttribute("data-target");
+        let text = document.getElementById(targetId).textContent;
+        navigator.clipboard.writeText(text);
+        btn.innerHTML = '<i class="fas fa-check text-green-600"></i>';
+        setTimeout(() => {
+          btn.innerHTML = '<i class="fas fa-copy"></i>';
+        }, 1000);
+      });
+    });
+
+    // Tema toggle
+    const themeToggle = document.getElementById("themeToggle");
+    const html = document.documentElement;
+    themeToggle.addEventListener("click", () => {
+      html.classList.toggle("dark");
+    });
+  </script>
+  <!-- Kütüphaneler -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="color-palette.js"></script>
+</body>
+</html>
